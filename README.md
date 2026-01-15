@@ -159,7 +159,7 @@ pip (Python package installer)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/zomato-data-analysis.git
+git clone https://github.com/durgaahirwar/zomato-data-analysis.git
 cd zomato-data-analysis
 ```
 
@@ -194,8 +194,6 @@ The project generates 8 professional visualizations:
 6. **Table Booking Analysis** - Service impact assessment
 7. **Top Restaurants** - Highest rated and most voted
 8. **Engagement Analysis** - Customer interaction patterns
-
-All visualizations are saved in high resolution (300 DPI) in the `visuals/` directory.
 
 ## 💡 Business Recommendations
 
@@ -242,20 +240,20 @@ This project was completed as part of the **GeeksforGeeks Data Analysis Certific
 
 **Program:** Data Analysis with Python  
 **Institution:** GeeksforGeeks  
-**Completion Date:** January 2026  
-**Certificate:** See `certificates/` directory
+**Completion Date:** January 2024 
+**Certificate:** https://www.geeksforgeeks.org/certificate/0518d5d13c0b8d5b704a07c467d76ba6
 
 ## 👤 Author
 
 **Durga Ahirwar**  
 Aspiring Data Analyst
 
-- 📧 Email: durgaahirwar13082006@gmail.com
-- 💼 LinkedIn:
+- 📧 Email: durgaahirwar132006@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/%20durga-ahirwar-760059389
 - 🐙 GitHub: 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/repo/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/durgaahirwar/repo/issues).
 
 ## 📄 License
 
@@ -271,8 +269,8 @@ This project is for educational purposes as part of the GeeksforGeeks certificat
 
 For any queries regarding this project, please reach out:
 
-- 📧 Email: your.email@example.com
-- 🌐 Project Link: [https://github.com/yourusername/zomato-data-analysis](https://github.com/yourusername/zomato-data-analysis)
+- 📧 Email:durgaahirwar132006@gmail.com
+- 🌐 Project Link: [https://github.com/durgaahirwar/zomato-data-analysis](https://github.com/durgaahirwar/zomato-data-analysis)
 
 ---
 
@@ -306,5 +304,5 @@ Made with ❤️ by Durga Ahirwar
 
 ---
 
-**Last Updated:** January 2026  
+**Last Updated:** January 2024 
 **Status:** ✅ Complete
