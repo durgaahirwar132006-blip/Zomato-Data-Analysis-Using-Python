@@ -26,15 +26,6 @@ This project performs comprehensive data analysis on Zomato restaurant data to i
 **Format:** CSV  
 **Records:** 148 restaurants
 
-### Dataset Attributes:
-- `name` - Restaurant name
-- `online_order` - Online ordering availability (Yes/No)
-- `book_table` - Table booking availability (Yes/No)
-- `rate` - Customer rating (X.X/5 format)
-- `votes` - Number of customer votes/reviews
-- `approx_cost(for two people)` - Average cost in ₹
-- `listed_in(type)` - Restaurant category (Dining/Cafes/Buffet/Other)
-
 ## 🛠 Tools & Technologies
 
 - **Python 3.8+** - Programming language
@@ -250,7 +241,7 @@ Aspiring Data Analyst
 
 - 📧 Email: durgaahirwar132006@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/%20durga-ahirwar-760059389
-- 🐙 GitHub: 
+- 🐙 GitHub: https://github.com/durgaahirwar132006-blip
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/durgaahirwar/repo/issues).
